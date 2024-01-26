@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "title": "Inception",
+      "description": "A mind-bending heist movie where skilled thieves enter people's dreams to steal their deepest secrets.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+      "rating": 4.8,
+      "id": "ffe9"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "description": "The story of a banker who is sentenced to life in Shawshank State Penitentiary and his journey to redemption.",
+      "posterUrl": "https://www.tallengestore.com/cdn/shop/products/Movie_Poster_Art_-_The_Shawshank_Redemption_-_Tallenge_Hollywood_Poster_Collection_281a20ac-f062-4b7d-8ccc-436d690078af.jpg?v=1578138044",
+      "rating": 4.9,
+      "id": "cebd"
+    },
+    {
+      "title": "The Dark Knight",
+      "description": "Batman faces the Joker, a criminal mastermind who seeks to create chaos in Gotham City.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vGYJRor3pCyjbaCpJKC39MpJhIT.jpg",
+      "rating": 4.7,
+      "id": "2b05"
+    },
+    {
+      "id": "311a",
+      "title": "barbie ",
+      "posterUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09e20adc-4256-4c77-8465-3fe5c2e09840/dg38waa-235c952f-df9e-4500-914e-fdbeed748128.png/v1/fit/w_750,h_1186,q_70,strp/barbie_movie_poster__2023__by_dreamerdesignoficial_dg38waa-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAyMyIsInBhdGgiOiJcL2ZcLzA5ZTIwYWRjLTQyNTYtNGM3Ny04NDY1LTNmZTVjMmUwOTg0MFwvZGczOHdhYS0yMzVjOTUyZi1kZjllLTQ1MDAtOTE0ZS1mZGJlZWQ3NDgxMjgucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.228nfaEt0CV458AtgcTYLX2c7lW-w46yKjsm1LU8awE",
+      "description": "doll",
+      "rating": "7"
+    }
+  ]
+}
